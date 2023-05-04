@@ -39,12 +39,12 @@ export default defineConfig({
           { text: 'Patrones Probados de Pinia', link: 'https://caribestic.github.io/proven-pinia-patterns/' },
           { text: 'Vue-Docker', link: 'https://caribestic.github.io/vue-docker/' },        
           { text: 'Vue-Forms', link: 'https://caribestic.github.io/vue-forms/' },
-          { text: 'Vue-TDD', link: 'https://caribestic.github.io/vue-tdd/' }          
+          { text: 'Vue-TDD', link: 'https://ecanquiz.github.io/vue-tdd/' }          
         ]
       }
     ],    
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/CaribesTIC/caribestic.github.io/' }
+      { icon: 'github', link: 'https://github.com/ecanquiz/ecanquiz.github.io/' }
     ]
   }
 })

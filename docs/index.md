@@ -44,7 +44,7 @@ hero:
       link: https://caribestic.github.io/vue-forms/
     - theme: brand
       text: Vue-TDD
-      link: https://caribestic.github.io/vue-tdd/ 
+      link: https://ecanquiz.github.io/vue-tdd/ 
 
 features:
   - title: eXtreme Programming
