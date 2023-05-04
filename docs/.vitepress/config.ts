@@ -16,7 +16,7 @@ export default defineConfig({
       }, {
         text: 'Books',
         items: [
-          { text: 'Kanban en Acción', link: 'https://madexblog.wordpress.com/2020/06/19/kanban-en-accion/' },
+          { text: 'Kanban in Action', link: 'https://madexblog.wordpress.com/2020/06/19/kanban-en-accion/' },
           { text: 'Metodología Ágil de Desarrollo eXtremo', link: 'https://madexblog.wordpress.com/2016/06/21/13/' }          
         ]
       }, {
