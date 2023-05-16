@@ -38,7 +38,7 @@ hero:
       link: https://caribestic.github.io/shopcart/
     - theme: brand
       text: CRUD ToDo ( Laravel + Vue )
-      link: https://ecanquiz.github.io/tuto-crud-todo/ 
+      link: https://ecanquiz.github.io/crud-todo/ 
     - theme: brand
       text: Vue-Docker
       link: https://caribestic.github.io/vue-docker/   

@@ -37,7 +37,7 @@ export default defineConfig({
         items: [
           { text: 'Laravel-Docker', link: 'https://caribestic.github.io/laravel-docker/' },
           { text: 'Patrones Probados de Pinia', link: 'https://caribestic.github.io/proven-pinia-patterns/' },
-          { text: 'CRUD ToDo ( Laravel + Vue )', link: 'https://ecanquiz.github.io/tuto-crud-todo/' },
+          { text: 'CRUD ToDo ( Laravel + Vue )', link: 'https://ecanquiz.github.io/crud-todo/' },
           { text: 'Vue-Docker', link: 'https://caribestic.github.io/vue-docker/' },        
           { text: 'Vue-Forms', link: 'https://caribestic.github.io/vue-forms/' },
           { text: 'Vue-TDD', link: 'https://ecanquiz.github.io/vue-tdd/' }          
