@@ -37,6 +37,9 @@ hero:
       text: ShopCart
       link: https://caribestic.github.io/shopcart/
     - theme: brand
+      text: CRUD ToDo ( Laravel + Vue )
+      link: https://ecanquiz.github.io/tuto-crud-todo/ 
+    - theme: brand
       text: Vue-Docker
       link: https://caribestic.github.io/vue-docker/   
     - theme: brand
@@ -64,7 +67,9 @@ features:
   - title: Scrum
     details: El aprendizaje de Scrum es el primer paso aconsejable para familiarizarse con la Gestión Ágil. Inicialmente se recomienda adoptarlo aplicando reglas definidas adoptando los Pilares, los Roles, los Artefactos y los Eventos originales.
   - title: ShopCart
-    details: Nuxt, Pinia, TailwindCss & TypeScript.    
+    details: Nuxt, Pinia, TailwindCss & TypeScript.
+  - title: CRUD ToDo ( Laravel + Vue )
+    details: Este tutorial consiste en la creación de un CRUD ToDo (de tareas) con Laravel y Vue bajo una arquitectura orientada a microservicios.   
   - title: Vue-Docker
     details: Reduce, si no elimina, la diferencia entre el entorno de producción, desarrollo o pruebas. Entorno robusto bajo Node+Ngnix. Entorno ligero bajo Node. Pruebas durante el desarrollo.
   - title: Vue-Forms
