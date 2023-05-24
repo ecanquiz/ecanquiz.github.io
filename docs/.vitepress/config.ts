@@ -22,24 +22,24 @@ export default defineConfig({
       }, {
         text: 'Methodologies',
         items: [
-          { text: 'eXtreme Programming', link: 'https://caribestic.github.io/xp/' },
-          { text: 'Refactorizar ya?', link: 'https://caribestic.github.io/refactor-now/' },
-          { text: 'Scrum', link: 'https://caribestic.github.io/scrum/' }
+          { text: 'eXtreme Programming', link: 'https://ecanquiz.github.io/extreme-programming/' },
+          { text: 'Refactorizar ya?', link: 'https://ecanquiz.github.io/refactor-now/' },
+          { text: 'Scrum', link: 'https://ecanquiz.github.io/scrum/' }
         ]
       },{
         text: 'Scaffolding',
         items: [
-          { text: 'LaraVuel-ApiSpa', link: 'https://caribestic.github.io/laravuel-apispa/' },
-          { text: 'ShopCart-Nuxt', link: 'https://caribestic.github.io/shopcart/' }      
+          { text: 'LaraVuel-ApiSpa', link: 'https://ecanquiz.github.io/laravuel-apispa/' },
+          { text: 'ShopCart-Nuxt', link: 'https://ecanquiz.github.io/shopcart/' }      
         ]
       }, {
         text: 'Tutorials',
         items: [
-          { text: 'Laravel-Docker', link: 'https://caribestic.github.io/laravel-docker/' },
-          { text: 'Patrones Probados de Pinia', link: 'https://caribestic.github.io/proven-pinia-patterns/' },
+          { text: 'Laravel-Docker', link: 'https://ecanquiz.github.io/laravel-docker/' },
+          { text: 'Patrones Probados de Pinia', link: 'https://ecanquiz.github.io/proven-pinia-patterns/' },
           { text: 'CRUD ToDo ( Laravel + Vue )', link: 'https://ecanquiz.github.io/crud-todo/' },
-          { text: 'Vue-Docker', link: 'https://caribestic.github.io/vue-docker/' },        
-          { text: 'Vue-Forms', link: 'https://caribestic.github.io/vue-forms/' },
+          { text: 'Vue-Docker', link: 'https://ecanquiz.github.io/vue-docker/' },        
+          { text: 'Vue-Forms', link: 'https://ecanquiz.github.io/vue-forms/' },
           { text: 'Vue-TDD', link: 'https://ecanquiz.github.io/vue-tdd/' }          
         ]
       }
