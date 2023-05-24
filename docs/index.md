@@ -11,40 +11,40 @@ hero:
   actions:
     - theme: brand
       text: eXtreme Programming
-      link: https://caribestic.github.io/xp/
+      link: https://ecanquiz.github.io/extreme-programming/
     - theme: brand
       text: Kanban en Acción
       link: https://madexblog.wordpress.com/2020/06/19/kanban-en-accion/
     - theme: brand
       text: Laravel-Docker
-      link: https://caribestic.github.io/laravel-docker/
+      link: https://ecanquiz.github.io/laravel-docker/
     - theme: brand
       text: LaraVuel-ApiSpa
-      link: https://caribestic.github.io/laravuel-apispa/
+      link: https://ecanquiz.github.io/laravuel-apispa/
     - theme: brand
       text: Metodología Ágil de Desarrollo eXtremo
       link: https://madexblog.wordpress.com/2016/06/21/13/
     - theme: brand
       text: Patrones Probados de Pinia
-      link: https://caribestic.github.io/proven-pinia-patterns/
+      link: https://ecanquiz.github.io/proven-pinia-patterns/
     - theme: brand
       text: Refactorizar ya?
-      link: https://caribestic.github.io/refactor-now/
+      link: https://ecanquiz.github.io/refactor-now/
     - theme: brand
       text: Scrum
-      link: https://caribestic.github.io/scrum/
+      link: https://ecanquiz.github.io/scrum/
     - theme: brand
       text: ShopCart
-      link: https://caribestic.github.io/shopcart/
+      link: https://ecanquiz.github.io/shopcart/
     - theme: brand
       text: CRUD ToDo ( Laravel + Vue )
       link: https://ecanquiz.github.io/crud-todo/ 
     - theme: brand
       text: Vue-Docker
-      link: https://caribestic.github.io/vue-docker/   
+      link: https://ecanquiz.github.io/vue-docker/   
     - theme: brand
       text: Vue-Forms
-      link: https://caribestic.github.io/vue-forms/
+      link: https://ecanquiz.github.io/vue-forms/
     - theme: brand
       text: Vue-TDD
       link: https://ecanquiz.github.io/vue-tdd/ 
