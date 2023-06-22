@@ -35,6 +35,7 @@ export default defineConfig({
       }, {
         text: 'Tutorials',
         items: [
+          { text: 'Cómo codificar en TypeScript', link: 'https://ecanquiz.github.io/how-to-code-in-typescript/' },
           { text: 'Laravel-Docker', link: 'https://ecanquiz.github.io/laravel-docker/' },
           { text: 'Patrones Probados de Pinia', link: 'https://ecanquiz.github.io/proven-pinia-patterns/' },
           { text: 'CRUD ToDo ( Laravel + Vue )', link: 'https://ecanquiz.github.io/crud-todo/' },
@@ -46,6 +47,10 @@ export default defineConfig({
     ],    
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ecanquiz/ecanquiz.github.io/' }
-    ]
+    ],
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2023-present Ernesto Canquiz'
+    }    
   }
 })

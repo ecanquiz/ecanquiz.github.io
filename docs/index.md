@@ -10,6 +10,9 @@ hero:
     alt: ecanquiz
   actions:
     - theme: brand
+      text:  Cómo codificar en TypeScript
+      link: https://ecanquiz.github.io/how-to-code-in-typescript/
+    - theme: brand
       text: eXtreme Programming
       link: https://ecanquiz.github.io/extreme-programming/
     - theme: brand
@@ -50,6 +53,8 @@ hero:
       link: https://ecanquiz.github.io/vue-tdd/ 
 
 features:
+  - title: Cómo codificar en TypeScript
+    details: Esta serie le mostrará la sintaxis que necesita para comenzar con TypeScript, lo que le permitirá aprovechar su sistema de escritura para crear código escalable de nivel empresarial.
   - title: eXtreme Programming
     details: El motor de XP se basa en 5 valores principales, los cuales aplicados de manera simultánea, impulsan la esencia colaborativa del equipo. También tiene un compendio de 12 Prácticas, que podrían ser nombradas como los 12 Hábitos.
   - title: Kanban en Acción
