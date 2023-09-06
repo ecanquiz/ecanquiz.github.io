@@ -41,6 +41,7 @@ export default defineConfig({
           { text: 'CRUD ToDo ( Laravel + Vue )', link: 'https://ecanquiz.github.io/crud-todo/' },
           { text: 'Vue-Docker', link: 'https://ecanquiz.github.io/vue-docker/' },        
           { text: 'Vue-Forms', link: 'https://ecanquiz.github.io/vue-forms/' },
+          { text: 'Vue-PWA', link: 'https://ecanquiz.github.io/vue-pwa/' },
           { text: 'Vue-TDD', link: 'https://ecanquiz.github.io/vue-tdd/' }          
         ]
       }

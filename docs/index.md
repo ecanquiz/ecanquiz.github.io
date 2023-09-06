@@ -37,17 +37,20 @@ hero:
       text: Scrum
       link: https://ecanquiz.github.io/scrum/
     - theme: brand
-      text: ShopCart
+      text: ShopCart-Nuxt
       link: https://ecanquiz.github.io/shopcart/
     - theme: brand
       text: CRUD ToDo ( Laravel + Vue )
       link: https://ecanquiz.github.io/crud-todo/ 
     - theme: brand
       text: Vue-Docker
-      link: https://ecanquiz.github.io/vue-docker/   
+      link: https://ecanquiz.github.io/vue-docker/
     - theme: brand
       text: Vue-Forms
       link: https://ecanquiz.github.io/vue-forms/
+    - theme: brand
+      text: Vue-PWA
+      link: https://ecanquiz.github.io/vue-pwa/
     - theme: brand
       text: Vue-TDD
       link: https://ecanquiz.github.io/vue-tdd/ 
@@ -79,6 +82,8 @@ features:
     details: Reduce, si no elimina, la diferencia entre el entorno de producción, desarrollo o pruebas. Entorno robusto bajo Node+Ngnix. Entorno ligero bajo Node. Pruebas durante el desarrollo.
   - title: Vue-Forms
     details: Los formularios se benefician al encapsular la lógica de los elementos en componentes. A medida que nuestra aplicación crece, por lo general nuestros formularios también, y tener un formulario construido sin componentes generalmente se convierte en una bomba de relogería.
+  - title: Vue-PWA
+    details: Aplicaciones Web Progresivas son aplicaciones web creadas y mejoradas con API modernas para ofrecer capacidades, confiabilidad e instalación mejoradas y, al mismo tiempo, llegar a cualquier persona, en cualquier lugar y en cualquier dispositivo, todo con una única base de código.
   - title: Vue-TDD
     details: Aprende TDD para Vue3 de cero a experto, paso a paso. Aquí, explica la correspondiente configuración de Vitest (con Vite) para tus proyectos y la migración a Vitest en cuanto a los Mocks (simulaciones).
     
