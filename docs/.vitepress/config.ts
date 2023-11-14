@@ -26,11 +26,16 @@ export default defineConfig({
           { text: 'Refactorizar ya?', link: 'https://ecanquiz.github.io/refactor-now/' },
           { text: 'Scrum', link: 'https://ecanquiz.github.io/scrum/' }
         ]
-      },{
+      }, {
         text: 'Scaffolding',
         items: [
           { text: 'LaraVuel-ApiSpa', link: 'https://ecanquiz.github.io/laravuel-apispa/' },
           { text: 'ShopCart-Nuxt', link: 'https://ecanquiz.github.io/shopcart/' }      
+        ]
+      }, {
+        text: 'Tool',
+        items: [
+          { text: 'Auto-CRUD Generator', link: 'https://ecanquiz.github.io/auto-crudx/' }      
         ]
       }, {
         text: 'Tutorials',
