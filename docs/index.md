@@ -4,11 +4,14 @@ layout: home
 hero:
   name: Ernesto Canquiz
   text: Desarrollo Web
-  tagline: Books, Scaffolding & Tutorials
+  tagline: Books, Scaffolding, Tool & Tutorials
   image:
     src: /logo.png
     alt: ecanquiz
   actions:
+    - theme: brand
+      text:  Auto-CRUD Generator
+      link: https://ecanquiz.github.io/auto-crudx/
     - theme: brand
       text:  Cómo codificar en TypeScript
       link: https://ecanquiz.github.io/how-to-code-in-typescript/
@@ -56,6 +59,8 @@ hero:
       link: https://ecanquiz.github.io/vue-tdd/ 
 
 features:
+  - title: Auto-CRUD Generator
+    details: CRUD es el acrónimo de Create, Read, Update y Delete. Desarrollar CRUDs es una labor repetitiva. Construya su propio Generador de CRUDs automático según su stack particular.
   - title: Cómo codificar en TypeScript
     details: Esta serie le mostrará la sintaxis que necesita para comenzar con TypeScript, lo que le permitirá aprovechar su sistema de escritura para crear código escalable de nivel empresarial.
   - title: eXtreme Programming
