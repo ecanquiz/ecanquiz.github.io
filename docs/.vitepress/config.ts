@@ -9,11 +9,12 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',  
     siteTitle: 'ecanquiz',
-    nav: [{
-        text: 'About', link: 'https://ecanquiz.github.io/portfolio/'
-      }, {
-        text: 'Blog', link: 'https://ecanquiz.github.io/myblog/'
-      }, {
+    nav: [//{
+        //text: 'About', link: 'https://ecanquiz.github.io/portfolio/'
+      //}, {
+      //  text: 'Blog', link: 'https://ecanquiz.github.io/myblog/'
+      //},
+      {
         text: 'Books',
         items: [
           { text: 'Kanban in Action', link: 'https://madexblog.wordpress.com/2020/06/19/kanban-en-accion/' },
