@@ -13,6 +13,9 @@ hero:
       text:  Auto-CRUD Generator
       link: https://ecanquiz.github.io/auto-crudx/
     - theme: brand
+      text:  Cómo codificar en JavaScript
+      link: https://ecanquiz.github.io/how-to-code-in-javascript/
+    - theme: brand
       text:  Cómo codificar en TypeScript
       link: https://ecanquiz.github.io/how-to-code-in-typescript/
     - theme: brand
@@ -33,6 +36,9 @@ hero:
     - theme: brand
       text: Patrones Probados de Pinia
       link: https://ecanquiz.github.io/proven-pinia-patterns/
+    - theme: brand
+      text: Query Vue
+      link: https://ecanquiz.github.io/query-vue/      
     - theme: brand
       text: Refactorizar ya?
       link: https://ecanquiz.github.io/refactor-now/
@@ -61,6 +67,8 @@ hero:
 features:
   - title: Auto-CRUD Generator
     details: CRUD es el acrónimo de Create, Read, Update y Delete. Desarrollar CRUDs es una labor repetitiva. Construya su propio Generador de CRUDs automático según su stack particular.
+  - title: Cómo codificar en JavaScript
+    details: Esta serie le mostrará lo que necesita para comenzar con JavaScript, lo que le permitirá aprovechar sus bondades para crear código escalable de nivel empresarial.
   - title: Cómo codificar en TypeScript
     details: Esta serie le mostrará la sintaxis que necesita para comenzar con TypeScript, lo que le permitirá aprovechar su sistema de escritura para crear código escalable de nivel empresarial.
   - title: eXtreme Programming
@@ -75,6 +83,8 @@ features:
     details: El conocimiento evoluciona continuamente porque está en permanente movimiento y porque la mejora siempre es posible. Representa la base fundamental para organizar cualquier tipo de proyecto (inclusive un proyecto de vida), porque otorga visión y poder para la acción en un momento histórico y situacional.
   - title: Patrones Probados de Pinia
     details: Exploraremos los patrones de nivel profesional que querrá saber cuando utilice la biblioteca de administración de estado de Vue en producción. Veremos las mejores prácticas para usar Pinia en sus aplicaciones y las aplicaremos a escenarios comunes.
+  - title: Query Vue
+    details: Potente Gestión de Estado Asíncrona para Vue. Deseche esa gestión de estado granular, la recuperación manual y los interminables tazones de código asincrónico-espagueti. TanStack Query Vue le ofrece mutaciones y consultas declarativas, siempre actualizadas y administradas automáticamente que mejoran directamente sus experiencias de desarrollador y usuario.
   - title: Refactorizar ya?
     details: La refactorización es una técnica que consiste en mejorar el código fuente de una aplicación, sin que dichas modificaciones, afecten el comportamiento externo del sistema. Strike One, Strike Two & Strike Out!
   - title: Scrum
@@ -92,6 +102,6 @@ features:
   - title: Vue-TDD
     details: Aprende TDD para Vue3 de cero a experto, paso a paso. Aquí, explica la correspondiente configuración de Vitest (con Vite) para tus proyectos y la migración a Vitest en cuanto a los Mocks (simulaciones).
     
-footer: MIT Licensed | Copyleft © 2022-present Ernesto Canquiz
+footer: MIT Licensed | Copyleft © 2024-present Ernesto Canquiz
 ---
 
