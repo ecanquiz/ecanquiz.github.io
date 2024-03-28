@@ -55,8 +55,8 @@ hero:
       text: Vue-Docker
       link: https://ecanquiz.github.io/vue-docker/
     - theme: brand
-      text: Vue-Forms
-      link: https://ecanquiz.github.io/vue-forms/
+      text: Vue-Forms-Tuto
+      link: https://ecanquiz.github.io/vue-forms-tuto/
     - theme: brand
       text: Vue-PWA
       link: https://ecanquiz.github.io/vue-pwa/
@@ -95,7 +95,7 @@ features:
     details: Este tutorial consiste en la creación de un CRUD ToDo (de tareas) con Laravel y Vue bajo una arquitectura orientada a microservicios.   
   - title: Vue-Docker
     details: Reduce, si no elimina, la diferencia entre el entorno de producción, desarrollo o pruebas. Entorno robusto bajo Node+Ngnix. Entorno ligero bajo Node. Pruebas durante el desarrollo.
-  - title: Vue-Forms
+  - title: Vue-Forms-Tuto
     details: Los formularios se benefician al encapsular la lógica de los elementos en componentes. A medida que nuestra aplicación crece, por lo general nuestros formularios también, y tener un formulario construido sin componentes generalmente se convierte en una bomba de relogería.
   - title: Vue-PWA
     details: Aplicaciones Web Progresivas son aplicaciones web creadas y mejoradas con API modernas para ofrecer capacidades, confiabilidad e instalación mejoradas y, al mismo tiempo, llegar a cualquier persona, en cualquier lugar y en cualquier dispositivo, todo con una única base de código.

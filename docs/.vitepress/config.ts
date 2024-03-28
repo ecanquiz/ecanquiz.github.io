@@ -46,7 +46,7 @@ export default defineConfig({
           { text: 'Patrones Probados de Pinia', link: 'https://ecanquiz.github.io/proven-pinia-patterns/' },
           { text: 'CRUD ToDo ( Laravel + Vue )', link: 'https://ecanquiz.github.io/crud-todo/' },
           { text: 'Vue-Docker', link: 'https://ecanquiz.github.io/vue-docker/' },        
-          { text: 'Vue-Forms', link: 'https://ecanquiz.github.io/vue-forms/' },
+          { text: 'Vue-Forms-Tuto', link: 'https://ecanquiz.github.io/vue-forms-tuto/' },
           { text: 'Vue-PWA', link: 'https://ecanquiz.github.io/vue-pwa/' },
           { text: 'Vue-TDD', link: 'https://ecanquiz.github.io/vue-tdd/' }          
         ]
