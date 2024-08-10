@@ -10,13 +10,16 @@ hero:
     alt: ecanquiz
   actions:
     - theme: brand
-      text:  Auto-CRUD Generator
+      text: Auto-CRUD Generator
       link: https://ecanquiz.github.io/auto-crudx/
     - theme: brand
-      text:  Cómo codificar en JavaScript
+      text: Cocinando con Laravel
+      link: https://ecanquiz.github.io/cooking-with-laravel/
+    - theme: brand
+      text: Cómo codificar en JavaScript
       link: https://ecanquiz.github.io/how-to-code-in-javascript/
     - theme: brand
-      text:  Cómo codificar en TypeScript
+      text: Cómo codificar en TypeScript
       link: https://ecanquiz.github.io/how-to-code-in-typescript/
     - theme: brand
       text: eXtreme Programming
@@ -27,6 +30,9 @@ hero:
     - theme: brand
       text: Laravel-Docker
       link: https://ecanquiz.github.io/laravel-docker/
+    - theme: brand
+      text: Laravel en funcionamiento
+      link: https://ecanquiz.github.io/laravel-up-running/
     - theme: brand
       text: LaraVuel-ApiSpa
       link: https://ecanquiz.github.io/laravuel-apispa/
@@ -67,6 +73,8 @@ hero:
 features:
   - title: Auto-CRUD Generator
     details: CRUD es el acrónimo de Create, Read, Update y Delete. Desarrollar CRUDs es una labor repetitiva. Construya su propio Generador de CRUDs automático según su stack particular.
+  - title: Cocinando con Laravel
+    details: Laravel es un framework de código abierto para desarrollar aplicaciones y servicios web con PHP de forma elegante y simple, evitando el "código espagueti". En este lugar encotrará guías, recursos y tutoriales relacionados con Laravel.
   - title: Cómo codificar en JavaScript
     details: Esta serie le mostrará lo que necesita para comenzar con JavaScript, lo que le permitirá aprovechar sus bondades para crear código escalable de nivel empresarial.
   - title: Cómo codificar en TypeScript
@@ -77,6 +85,8 @@ features:
     details: ¿Demasiado trabajo y muy poco tiempo? Si esta es la vida diaria de su equipo, necesita kanban, un método de gestión de conocimiento eficiente diseñado para involucrar a todos los miembros del equipo en la mejora continua de su proceso.
   - title: Laravel-Docker
     details: Dockerize una aplicación PHP (con nginx y PostgreSQL). Comenzar un proyecto PHP rápidamente. Para mantenerlo "ajustado", solo instala las cosas que necesitas y sigue paso a paso adelante.
+  - title: Laravel en funcionamiento
+    details: Laravel te ayuda a hacer realidad tus ideas sin desperdiciar código, utilizando estándares de codificación modernos, rodeado de una comunidad vibrante y con un ecosistema de herramientas empoderador.
   - title: LaraVuel-ApiSpa
     details: Si desea seguir la ruta de tener un SPA completamente separado que consume una API de Laravel, estos documentos deberían proporcionar toda la referencia que necesitas para configurar las cosas y empezar con un andamiaje para tu proyecto.
   - title: Metodología Ágil de Desarrollo eXtremo

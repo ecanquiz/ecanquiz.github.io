@@ -41,10 +41,13 @@ export default defineConfig({
       }, {
         text: 'Tutorials',
         items: [
+          { text: 'Cocinando con Laravel', link: 'https://ecanquiz.github.io/cooking-with-laravel/' },
+          { text: 'Cómo codificar en JavaScript', link: 'https://ecanquiz.github.io/how-to-code-in-javascript/' },
           { text: 'Cómo codificar en TypeScript', link: 'https://ecanquiz.github.io/how-to-code-in-typescript/' },
-          { text: 'Laravel-Docker', link: 'https://ecanquiz.github.io/laravel-docker/' },
-          { text: 'Patrones Probados de Pinia', link: 'https://ecanquiz.github.io/proven-pinia-patterns/' },
           { text: 'CRUD ToDo ( Laravel + Vue )', link: 'https://ecanquiz.github.io/crud-todo/' },
+          { text: 'Laravel-Docker', link: 'https://ecanquiz.github.io/laravel-docker/' },
+          { text: 'Laravel en funcionamiento', link: 'https://ecanquiz.github.io/laravel-up-running/' },
+          { text: 'Patrones Probados de Pinia', link: 'https://ecanquiz.github.io/proven-pinia-patterns/' },
           { text: 'Vue-Docker', link: 'https://ecanquiz.github.io/vue-docker/' },        
           { text: 'Vue-Forms-Tuto', link: 'https://ecanquiz.github.io/vue-forms-tuto/' },
           { text: 'Vue-PWA', link: 'https://ecanquiz.github.io/vue-pwa/' },
