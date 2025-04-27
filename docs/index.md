@@ -22,6 +22,9 @@ hero:
       text: Cómo codificar en TypeScript
       link: https://ecanquiz.github.io/how-to-code-in-typescript/
     - theme: brand
+      text: Estructura de Carpetas
+      link: https://ecanquiz.github.io/folder-structure-for-vue-apps/
+    - theme: brand
       text: eXtreme Programming
       link: https://ecanquiz.github.io/extreme-programming/
     - theme: brand
