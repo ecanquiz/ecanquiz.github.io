@@ -45,6 +45,7 @@ export default defineConfig({
           { text: 'Cómo codificar en JavaScript', link: 'https://ecanquiz.github.io/how-to-code-in-javascript/' },
           { text: 'Cómo codificar en TypeScript', link: 'https://ecanquiz.github.io/how-to-code-in-typescript/' },
           { text: 'CRUD ToDo ( Laravel + Vue )', link: 'https://ecanquiz.github.io/crud-todo/' },
+          { text: 'Estructura de Carpetas', link: 'https://ecanquiz.github.io/folder-structure-for-vue-apps/' },
           { text: 'Laravel-Docker', link: 'https://ecanquiz.github.io/laravel-docker/' },
           { text: 'Laravel en funcionamiento', link: 'https://ecanquiz.github.io/laravel-up-running/' },
           { text: 'Patrones Probados de Pinia', link: 'https://ecanquiz.github.io/proven-pinia-patterns/' },
