@@ -48,6 +48,7 @@ export default defineConfig({
           { text: 'Estructura de Carpetas', link: 'https://ecanquiz.github.io/folder-structure-for-vue-apps/' },
           { text: 'Laravel-Docker', link: 'https://ecanquiz.github.io/laravel-docker/' },
           { text: 'Laravel en funcionamiento', link: 'https://ecanquiz.github.io/laravel-up-running/' },
+          { text: 'Nuxt4 Fetch Tuto', link: 'https://ecanquiz.github.io/nuxt4-fetch-tutorial/' },
           { text: 'Patrones Probados de Pinia', link: 'https://ecanquiz.github.io/proven-pinia-patterns/' },
           { text: 'Vue-Docker', link: 'https://ecanquiz.github.io/vue-docker/' },        
           { text: 'Vue-Forms-Tuto', link: 'https://ecanquiz.github.io/vue-forms-tuto/' },
