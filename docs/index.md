@@ -43,6 +43,9 @@ hero:
       text: Metodología Ágil de Desarrollo eXtremo
       link: https://madexblog.wordpress.com/2016/06/21/13/
     - theme: brand
+      text: Nuxt4 Fetch Tuto
+      link: https://ecanquiz.github.io/nuxt4-fetch-tutorial/
+    - theme: brand
       text: Patrones Probados de Pinia
       link: https://ecanquiz.github.io/proven-pinia-patterns/
     - theme: brand
